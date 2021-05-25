@@ -4,7 +4,7 @@ This repository is for public.
 ## Hi Friends welcome to 
 <p align="center">
   <a href="#">
-    <img src="./yks_logo.png" alt="Logo" width="80" height="80">
+    <img src="./yks_logo.png" alt="Logo" width="180" height="180">
   </a>
 </p>
 <br />
