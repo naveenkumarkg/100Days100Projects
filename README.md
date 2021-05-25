@@ -2,16 +2,14 @@
 This repository is for public.
 
 ## Hi Friends welcome to 
+### **Your Koding Skills** This challenge helps you to transform yourself from junior developer to advance developer.
+
 <p align="center">
   <a href="#">
     <img src="./yks_logo.png" alt="Logo" width="180" height="180">
   </a>
 </p>
 <br />
-**Your Koding Skills**.
-
-This challenge helps you to transform yourself from junior developer to advance developer.
-
 
 # Channel Introduction:
 This repo has video reference from the Youtube Channel : [Your Koding Skills](https://youtube.com/channel/UCykgYQcHd6YSPiCl8J1sRgQ) . Kindly visit the youtube channel.
