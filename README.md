@@ -1,15 +1,11 @@
 # 100Days100Projects
-
 This repository is for public.
 
 ## Hi Friends welcome to **Your Koding Skills**.
-
 This challenge helps you to transform yourself from junior developer to advance developer.
 
 # Channel Introduction:
-
-
-    This repo has video reference from the Youtube Channel : [Your Koding Skills](https://youtube.com/channel/UCykgYQcHd6YSPiCl8J1sRgQ) . Kindly visit the youtube channel.
+This repo has video reference from the Youtube Channel : [Your Koding Skills](https://youtube.com/channel/UCykgYQcHd6YSPiCl8J1sRgQ) . Kindly visit the youtube channel.
 
 
 ## GettingStarted
@@ -24,14 +20,13 @@ Read the current projects readme.md file
 
 ## Executing Projects
 ```
-        Read the current projects readme.md file
+Read the current projects readme.md file
 ```
 ## Help
-```
-     [Your Koding Skills](https://youtube.com/channel/) - Youtube Channel
-        Telegram Group: [Your Koding Skills](https://t.me/yourkodingskills)
-        Visit the Youtube channel & Telegram Channel
-```
+Youtube Channel: [Your Koding Skills](https://youtube.com/channel/)
+Telegram Group: [Your Koding Skills](https://t.me/yourkodingskills)
+Visit the Youtube channel & Telegram Channel
+
 ## Projects
 ### * 1: Day 1: Thermostat
 ### * 2: Day_2: Hamburger
