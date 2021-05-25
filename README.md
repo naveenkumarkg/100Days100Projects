@@ -23,9 +23,9 @@ Read the current projects readme.md file
 Read the current projects readme.md file
 ```
 ## Help
-Youtube Channel: [Your Koding Skills](https://youtube.com/channel/)
-Telegram Group: [Your Koding Skills](https://t.me/yourkodingskills)
-Visit the Youtube channel & Telegram Channel
+* Youtube Channel: [Your Koding Skills](https://youtube.com/channel/)
+* Telegram Group: [Your Koding Skills](https://t.me/yourkodingskills)
+* Visit the Youtube channel & Telegram Channel
 
 ## Projects
 ### * 1: Day 1: Thermostat
