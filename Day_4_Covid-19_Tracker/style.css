@@ -1,0 +1,28 @@
+body{
+    background-image: url('./img/bg-covid.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+
+ 
+}
+
+/* #NewConfirmed{
+    background:red;
+}
+#NewDeaths{
+    background:rgb(230, 6, 6);
+}
+
+#NewRecovered{ 
+    background:chartreuse
+}
+#TotalConfirmed{
+    background:rgb(255, 0, 119)
+ }
+#TotalDeaths{ 
+    background:rgb(255, 17, 0)
+}
+#TotalRecovered{
+    background:rgb(0, 255, 136)
+ } */
