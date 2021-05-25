@@ -1,7 +1,8 @@
 # 100Days100Projects
 This repository is for public.
 
-## Hi Friends welcome to **Your Koding Skills**.
+## Hi Friends welcome to 
+[![Your Koding Skills][yks-shield]]
 This challenge helps you to transform yourself from junior developer to advance developer.
 
 # Channel Introduction:
