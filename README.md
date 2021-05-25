@@ -2,7 +2,10 @@
 This repository is for public.
 
 ## Hi Friends welcome to 
-[![Your Koding Skills][yks-shield]]
+**Your Koding Skills**.
+  <a href="#">
+    <img src="./yks_logo.png" alt="Logo" width="80" height="80">
+  </a>
 This challenge helps you to transform yourself from junior developer to advance developer.
 
 # Channel Introduction:
