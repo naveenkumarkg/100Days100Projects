@@ -28,7 +28,7 @@ Read the current projects readme.md file
 ```
 ## Help
 ```
-        Youtube Channel: [Your Koding Skills](https://youtube.com/channel/)
+     [Your Koding Skills](https://youtube.com/channel/) - Youtube Channel
         Telegram Group: [Your Koding Skills](https://t.me/yourkodingskills)
         Visit the Youtube channel & Telegram Channel
 ```
